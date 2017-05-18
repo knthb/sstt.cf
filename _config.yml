@@ -1,17 +1,16 @@
 # Site settings
-title: Willian Justen - Desenvolvedor Front End
-description: A blog about lorem ipsum dolor sit amet
-baseurl: "/cards-jekyll-template" # the subpath of your site, e.g. /blog
-url: "https://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: SSTT.CF 
+description: SST t website
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://sstt.cf" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+username: knthb
+user_description: member of sstctf
+email: kenneth@sstctf.org
+twitter_username: SSTCTF
+github_username:  knthb
+
 
 # Build settings
 markdown: kramdown
