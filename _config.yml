@@ -44,4 +44,4 @@ gems:
   - jekyll-mentions
   
 emoji:
-  src: "/assets/emoji"
+  src: "/assets"
