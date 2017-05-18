@@ -42,3 +42,6 @@ exclude: ['package.json', 'src', 'node_modules']
 gems:
   - jemoji
   - jekyll-mentions
+  
+emoji:
+  src: "/assets/emoji"
