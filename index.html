@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-{% include welcome.md %}
+{% capture include_md %}{% include welcome.md %}{% endcapture %}
+{{ include_md | markdownify }}
 
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <div id="grid" class="row flex-grid">
